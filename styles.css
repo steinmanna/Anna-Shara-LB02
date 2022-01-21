@@ -16,25 +16,4 @@ h1 {
 
 h2 {
     color: palevioletred;
-    text-align: justify;
-<<<<<<< HEAD:styles.css
-}
-
-
-
-.carousel-control-prev,.carousel-control-next{
-    width: 10px;
-    height: 20px;
-    background-color: pink;
-}
-
-img{
-    background-color: aquamarine;
-}
-=======
-  }
-  
-  h3{
-    color: rgb(223, 193, 198)
-  }
->>>>>>> 866dfc3983af7f6098be4c235924f80ad135174b:style.css
+    text-align: justify;}

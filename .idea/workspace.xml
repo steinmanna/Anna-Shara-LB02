@@ -50,7 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642762579049</updated>
       <workItem from="1642762580120" duration="616000" />
-      <workItem from="1642768481732" duration="4125000" />
+      <workItem from="1642768481732" duration="6887000" />
     </task>
     <servers />
   </component>
@@ -80,9 +80,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="101" key="SettingsEditor" timestamp="1642770525812">
-      <screen x="0" y="25" width="1536" height="881" />
+    <state x="323" y="114" key="SettingsEditor" timestamp="1642800327164">
+      <screen x="0" y="25" width="1792" height="1036" />
     </state>
+    <state x="323" y="114" key="SettingsEditor/0.25.1792.1036@0.25.1792.1036" timestamp="1642800327164" />
+    <state x="323" y="114" key="SettingsEditor/0.25.1792.1037@0.25.1792.1037" timestamp="1642800122049" />
     <state x="277" y="101" key="SettingsEditor/1536.-299.1920.1055/0.25.1536.881@0.25.1536.881" timestamp="1642770525812" />
   </component>
 </project>

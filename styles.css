@@ -17,6 +17,7 @@ h1 {
 h2 {
     color: palevioletred;
     text-align: justify;
+<<<<<<< HEAD:styles.css
 }
 
 
@@ -30,3 +31,10 @@ h2 {
 img{
     background-color: aquamarine;
 }
+=======
+  }
+  
+  h3{
+    color: rgb(223, 193, 198)
+  }
+>>>>>>> 866dfc3983af7f6098be4c235924f80ad135174b:style.css

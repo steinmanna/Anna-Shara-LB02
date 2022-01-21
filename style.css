@@ -1,8 +1,21 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(221, 247, 255);
   }
   
   h1 {
-    color: red;
+    color: pink;
     text-align: center;
   }
+
+  .p {
+    font-family: "Helvetica";
+    font-size: medium;
+    text-align: justify;
+    color: black;
+  }
+  
+  h2 {
+    color: palevioletred;
+    text-align: justify;
+  }
+  

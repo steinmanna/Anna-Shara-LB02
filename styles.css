@@ -1,21 +1,32 @@
 body {
     background-color: rgb(221, 247, 255);
-  }
-  
-  h1 {
+}
+
+h1 {
     color: pink;
     text-align: center;
-  }
+}
 
-  .p {
+.p {
     font-family: "Helvetica";
     font-size: medium;
     text-align: justify;
     color: black;
-  }
-  
-  h2 {
+}
+
+h2 {
     color: palevioletred;
     text-align: justify;
-  }
-  
+}
+
+
+
+.carousel-control-prev,.carousel-control-next{
+    width: 10px;
+    height: 20px;
+    background-color: pink;
+}
+
+img{
+    background-color: aquamarine;
+}

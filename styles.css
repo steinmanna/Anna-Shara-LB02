@@ -1,10 +1,13 @@
 body {
     background-color: rgb(221, 247, 255);
+    padding: 10%;
 }
 
 h1 {
     color: pink;
     text-align: center;
+    text-transform: uppercase;
+    margin: 20px 0 20px 0;
 }
 
 .p {
@@ -17,7 +20,8 @@ h1 {
 h2 {
     color: palevioletred;
     text-align: justify;
-<<<<<<< HEAD:styles.css
+    margin: 20px 0 20px 0;
+
 }
 
 
@@ -25,16 +29,32 @@ h2 {
 .carousel-control-prev,.carousel-control-next{
     width: 10px;
     height: 20px;
-    background-color: pink;
+    background-color: green;
 }
 
 img{
     background-color: aquamarine;
 }
-=======
-  }
+
   
   h3{
-    color: rgb(223, 193, 198)
+    color: rgb(223, 193, 198);
+     padding-top: 30px;
+
   }
->>>>>>> 866dfc3983af7f6098be4c235924f80ad135174b:style.css
+
+#about-us{
+
+}
+
+.p1{
+
+}
+
+.p2{
+
+}
+
+.p3{
+
+}

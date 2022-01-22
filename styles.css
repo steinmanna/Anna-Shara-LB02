@@ -47,19 +47,15 @@ h2 {
 
 .smoothies{
     margin-bottom: 20px;
-    margin-top: 150px;
     font-weight: bold;
 }
 
-.zutaten{
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
 
 
 .zutatentitel{
   font-size: small;
   margin: 0 0 0 20px;
+
 }
 .preis{
   margin-top: 20px;
@@ -138,20 +134,32 @@ h2 {
   }
 
   .navbar a{
-    padding: 0;
     color: palevioletred;
     font-weight: bold;
     font-size: large;
     text-transform: uppercase;
+
+
   }
 
-  a:hover{
-    color:gray;
+  .navbar img{
+      background-color: white!important;
+      padding: 0!important;
   }
+
+  .navbar li{
+      background-color: lightpink;
+      border-radius: 20px;
+      padding: 10px;
+      margin-right: 15px;
+  }
+
 
   footer{
-    background-color: lightgray;
+    background-color: lightpink;
     color: palevioletred;
+    font-weight: bold;
     padding: 40px;
     font-size: large;
+    border-radius: 20px;
   }

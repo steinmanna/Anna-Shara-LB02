@@ -44,9 +44,26 @@ h2 {
 
 
 
-.booksandcomics{
-    margin-bottom: 150px;
+.smoothies{
+    margin-bottom: 20px;
     margin-top: 150px;
+    font-weight: bold;
+}
+
+.zutaten{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.zutatentitel{
+  font-size: small;
+  margin: 0 0 0 20px;
+}
+.preis{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
 }
 
 .carousel{
@@ -118,3 +135,5 @@ h2 {
       font-size: 11px
     }
   }
+
+  

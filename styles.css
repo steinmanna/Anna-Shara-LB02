@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(221, 247, 255);
     padding: 10%;
+    font-family: "Verdana";
 }
 
 h1 {
@@ -11,7 +11,6 @@ h1 {
 }
 
 .p {
-    font-family: "Helvetica";
     font-size: medium;
     text-align: center;
     color: black;
@@ -148,4 +147,11 @@ h2 {
 
   a:hover{
     color:gray;
+  }
+
+  footer{
+    background-color: lightgray;
+    color: palevioletred;
+    padding: 40px;
+    font-size: large;
   }

@@ -1,6 +1,5 @@
 body {
-    padding: 10%;
-    font-family: "Verdana";
+    padding: 7% 7% 1% 10%;
 }
 
 h1 {
@@ -8,6 +7,7 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     margin: 20px 0 20px 0;
+    font-weight: bolder;
 }
 
 .p {
@@ -20,10 +20,35 @@ h2 {
     color: palevioletred;
     text-align: justify;
     margin: 20px 0 20px 0;
+    font-weight: bold;
+}
+
+.card-text{
+    // background-color: lightpink;
+    color: palevioletred;
+    border: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.card-text li{
+    color: gray;
+    font-size: 15px;
+    text-align: left;
 
 }
 
+.preis{
+    padding: 0;
+}
 
+.smoothie-name{
+    background-color: white;
+    padding: 0;
+    font-size: 22px;
+    text-align: center;
+    text-transform: uppercase;
+}
 
 .carousel-control-prev,.carousel-control-next{
     width: 10px;
@@ -33,7 +58,13 @@ h2 {
 
 
 
-  
+  .p1{
+      margin-bottom: 20px;
+  }
+
+  .p2{
+      margin-top: 50px;
+  }
   
 
   h3{
@@ -50,11 +81,9 @@ h2 {
     font-weight: bold;
 }
 
-
-
 .zutatentitel{
   font-size: small;
-  margin: 0 0 0 20px;
+  margin: 0 0 0 40px;
 
 }
 .preis{
@@ -62,11 +91,6 @@ h2 {
   margin-bottom: 20px;
   font-weight: bold;
 }
-
-.carousel{
-    border-bottom: 5px solid lightblue;
-}
-
 
 
 * {
@@ -79,10 +103,7 @@ h2 {
   .mySlides {
     display: none
   }
-.mySlides img{
-    border: red 3px;
 
-  }
   .slideshow-container {
       
     max-width: 1000px;
@@ -138,13 +159,13 @@ h2 {
     font-weight: bold;
     font-size: large;
     text-transform: uppercase;
-
-
   }
 
   .navbar img{
       background-color: white!important;
-      padding: 0!important;
+      padding: 20px;
+      width: auto;
+      height: 200px;
   }
 
   .navbar li{
@@ -155,11 +176,11 @@ h2 {
   }
 
 
+
   footer{
-    background-color: lightpink;
     color: palevioletred;
     font-weight: bold;
     padding: 40px;
     font-size: large;
-    border-radius: 20px;
+      margin-top: 40px;
   }

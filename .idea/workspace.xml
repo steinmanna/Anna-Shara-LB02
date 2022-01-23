@@ -22,6 +22,7 @@
     <list default="true" id="38e1638f-c610-4fde-82c8-ba3df6491790" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,9 +66,12 @@
       <updated>1642762579049</updated>
       <workItem from="1642762580120" duration="616000" />
       <workItem from="1642768481732" duration="18347000" />
-      <workItem from="1642883938199" duration="6284000" />
+      <workItem from="1642883938199" duration="16330000" />
     </task>
     <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="/bin/bash -l" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -88,15 +93,25 @@
       <screen x="0" y="25" width="1792" height="1033" />
     </state>
     <state x="540" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1033@0.25.1792.1033" timestamp="1642812059551" />
-    <state x="323" y="114" key="SettingsEditor" timestamp="1642800327164">
-      <screen x="0" y="25" width="1792" height="1036" />
+    <state x="643" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1642966660764">
+      <screen x="0" y="25" width="1792" height="1044" />
     </state>
+    <state x="643" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1792.1044@0.25.1792.1044" timestamp="1642966660764" />
+    <state x="323" y="115" key="SettingsEditor" timestamp="1642956916143">
+      <screen x="0" y="25" width="1792" height="1044" />
+    </state>
+    <state x="323" y="114" key="SettingsEditor/0.25.1792.1033@0.25.1792.1033" timestamp="1642947745384" />
     <state x="323" y="114" key="SettingsEditor/0.25.1792.1036@0.25.1792.1036" timestamp="1642800327164" />
     <state x="323" y="114" key="SettingsEditor/0.25.1792.1037@0.25.1792.1037" timestamp="1642800122049" />
+    <state x="323" y="115" key="SettingsEditor/0.25.1792.1044@0.25.1792.1044" timestamp="1642956916143" />
     <state x="277" y="101" key="SettingsEditor/1536.-299.1920.1055/0.25.1536.881@0.25.1536.881" timestamp="1642770525812" />
     <state x="697" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1642880500411">
       <screen x="0" y="25" width="1792" height="1030" />
     </state>
     <state x="697" y="458" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1792.1030@0.25.1792.1030" timestamp="1642880500411" />
+    <state x="87" y="142" width="1291" height="1008" key="dock-window-1" timestamp="1642940688290">
+      <screen x="0" y="25" width="1792" height="1035" />
+    </state>
+    <state x="87" y="142" width="1291" height="1008" key="dock-window-1/0.25.1792.1035@0.25.1792.1035" timestamp="1642940688290" />
   </component>
 </project>

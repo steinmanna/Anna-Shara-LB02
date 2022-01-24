@@ -6,8 +6,6 @@ let smoothie1 = {
         "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 12,4g", "Zuker 10,7g", "Salz 0g"],
         "ingredients": ["Apfel", "Orange", "Bananen", "Heidelbeeren", "Himbeeren", "Brommbeeren", "Johannisbeeren"]
     }
-     
-    
 }
 
 let htmlObj = document.getElementById("purplesmoothie");
@@ -27,7 +25,6 @@ htmlObj = document.getElementById("purpleingredients");
 });
 
 
-//----------------------------------------
 
 let smoothie2 = {
     "smoothiename" : "Yellow Smoothie",
@@ -58,7 +55,6 @@ htmlObj = document.getElementById("yellowingredients");
 });
 
 
-//----------------------------------------
 
 let smoothie3 = {
     "smoothiename" : "Rewe Smoothie",
@@ -68,8 +64,6 @@ let smoothie3 = {
         "nutritionalvalue": ["Kalorien 51", "Kohlenhydrate 12g", "Zuker 12g", "Salz <0,1g"],
         "ingredients": ["Trauben", "Rhabarber", "Apfel", "Banane", "Birne", "Schwarze Karotte", "Vanille"]
     }
-     
-    
 }
 
  htmlObj = document.getElementById("rewesmoothie");
@@ -98,8 +92,6 @@ let smoothie4 = {
         "nutritionalvalue": ["Kalorien 67", "Kohlenhydrate 16g", "Zuker 15g", "Salz <0,1g"],
         "ingredients": ["Apfel", "Banane", "Trauben", "Guave", "Yuzu", "Spirulinaextrakt"]
     }
-     
-    
 }
 
  htmlObj = document.getElementById("kauflandsmoothie");
@@ -118,7 +110,6 @@ htmlObj = document.getElementById("kauflandingredients");
     htmlObj.innerHTML += `${value}<br>`;
 });
 
-//----------------------------------------
 
 let smoothie5 = {
     "smoothiename" : "Pink Smoothie",
@@ -128,8 +119,6 @@ let smoothie5 = {
         "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 12,4g", "Zuker 10,7g", "Salz 0g"],
         "ingredients": ["Apfel", "Banane", "Guanabana", "Darchenfrucht"]
     }
-     
-    
 }
 
  htmlObj = document.getElementById("pinksmoothie");
@@ -148,7 +137,6 @@ htmlObj = document.getElementById("pinkingredients");
     htmlObj.innerHTML += `${value}<br>`;
 });
   
-//----------------------------------------
 
 let smoothie6 = {
     "smoothiename" : "Green Smoothie",
@@ -158,8 +146,6 @@ let smoothie6 = {
         "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 11,6g", "Zuker 10,5g", "Salz 0g"],
         "ingredients": ["Apfel", "Banane", "Blätter Spinat", "Birne", "Blatt Grünkohl", "Ingwer", "Matcha"]
     }
-     
-    
 }
 
  htmlObj = document.getElementById("greensmoothie");
@@ -178,7 +164,6 @@ htmlObj = document.getElementById("greeningredients");
     htmlObj.innerHTML += `${value}<br>`;
 });
 
-//----------------------------------------
 
 let smoothie7 = {
     "smoothiename" : "Mint Smoothie",
@@ -188,8 +173,6 @@ let smoothie7 = {
         "nutritionalvalue": ["Kalorien 55", "Kohlenhydrate 13g", "Zuker 12g", "Salz 0g"],
         "ingredients": ["Ananas", "Apfel", "Orange", "Banane", "Cashew-Apfel", "Key Lime", "Minze"]
     }
-     
-    
 }
 
  htmlObj = document.getElementById("mintsmoothie");
@@ -208,7 +191,6 @@ htmlObj = document.getElementById("mintingredients");
     htmlObj.innerHTML += `${value}<br>`;
 });
 
-//----------------------------------------
 
 let smoothie8 = {
     "smoothiename" : "Orange Smoothie",
@@ -218,8 +200,6 @@ let smoothie8 = {
         "nutritionalvalue": ["Kalorien 49", "Kohlenhydrate 11g", "Zuker 10g"],
         "ingredients": ["Apfel", "Mango", "Acerola-Kirsche", "Goji Beeren", "Orangenschale"]
     }
-     
-    
 }
 
  htmlObj = document.getElementById("orangesmoothie");

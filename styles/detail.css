@@ -19,6 +19,13 @@ h1 {
     color: black;
 }
 
+.detailcardtext{
+    font-size: medium;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+}
+
 h2 {
     color: pink;
     text-align: justify;
@@ -27,7 +34,7 @@ h2 {
 }
 
 h3 {
-    color: palevioletred;
+    color: pink;
     text-align: justify;
     margin: 20px 0 0 0;
     font-weight: bold;
@@ -37,10 +44,11 @@ h3 {
 
 .card-box{
     margin-bottom: 200px;
-    background-color: #ffccbe;
+    background-color: palevioletred;
+    
 }
 
 hr{
-    border-top: 5px dashed palevioletred;
+    border-top: 5px dashed pink;
 }
 

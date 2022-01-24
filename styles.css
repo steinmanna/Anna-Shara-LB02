@@ -144,8 +144,10 @@ h2 {
 
   footer{
     color: palevioletred;
+    background-color: lightpink;
     font-weight: bold;
     padding: 40px;
     font-size: large;
-      margin-top: 40px;
+    margin-top: 40px;
+      border-radius: 20px;
   }

@@ -1,15 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<body lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Smoothie</title>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="styles/detail.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="styles/styles.css" media="screen" />
-
-
-
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet">
+    <link href="styles/detail.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="styles/styles.css" media="screen" rel="stylesheet" type="text/css" />
 
 </head>
 <body>
@@ -17,12 +14,11 @@
 <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
         <a class="navbar-brand" href="#navbar-brand">
-            <img src="img/general/logo.png" alt="" width="auto" height="90">
+            <a href="index.html"><img class="logo" src="img/general/logo.png"></a>
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+        <button aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-bs-target="#navbarNav" data-bs-toggle="collapse" type="button">
         </button>
-        <div class="cnavbar-" id="navbarNav">
+        <div class="navbar-" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link" href="#about-us">Über Uns</a>
@@ -36,76 +32,96 @@
     </div>
 </nav>
 
-<h2>Angaben</h2>
-
-<h3>Purple Smoothie</h3>
-<img src="../img/carousel/true_fruits_smoothie_purple_.webp">
-<p id="purplesmoothie"></p>
-<p id="purpleingredients"></p>
-<p id="purplevalues"></p>
-
-<hr>
-
-<h3>Yellow Smoothie</h3>
-<img src="../img/carousel/true_fruits_smoothie_yellow_.webp">
-<p id="yellowsmoothie"></p>
-<p id="yellowingredients"></p>
-<p id="yellowvalues"></p>
-
-<hr>
-
-<h3>Rewe Smoothie</h3>
-<img src="../img/carousel/Blue_Smoothie_Rewe_.webp">
-<p id="rewesmoothie"></p>
-<p id="reweingredients"></p>
-<p id="rewevalues"></p>
-
-<hr>
-
-
-<h3>Kaufland Smoothie</h3>
-<img src="../img/carousel/Red_Smoothie_Kaufland_.webp">
-<p id="kauflandsmoothie"></p>
-<p id="kauflandingredients"></p>
-<p id="kauflandvalues"></p>
-
-<hr>
-
-
-<h3>Pink Smoothie</h3>
-<img src="../img/carousel/true_fruits_smoothie_pink_.webp">
-<p id="pinksmoothie"></p>
-<p id="pinkingredients"></p>
-<p id="pinkvalues"></p>
-
-<hr>
-
-<h3>Green Smoothie</h3>
-<img src="../img/carousel/true_fruits_green_smoothie_.webp">
-<p id="greensmoothie"></p>
-<p id="greeningredients"></p>
-<p id="greenvalues"></p>
-
-<hr>
-
-<h3>Mint Smoothie</h3>
-<img src="../img/carousel/Smoothie_Mint_.webp">
-<p id="mintsmoothie"></p>
-<p id="mintingredients"></p>
-<p id="mintvalues"></p>
-
-<hr>
-
-<h3>Orange Smoothie</h3>
-<img src="../img/carousel/true_fruits_smoothie_orangenschale_.webp">
-<p id="orangesmoothie"></p>
-<p id="orangeingredients"></p>
-<p id="orangevalues"></p>
+<div class="row">
+    <div class="col-md-3">
+        <div class="card card-box" style="width: 18rem;">
+            <h3>Purple Smoothie</h3>
+            <img src="img/carousel/true_fruits_smoothie_purple_.webp">
+            <div class="card-body">
+                <p id="purplesmoothie"></p>
+                <p id="purpleingredients"></p>
+                <p id="purplevalues"></p>
+            </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card card-box" style="width: 18rem;">
+            <h3>Yellow Smoothie</h3>
+            <img src="img/carousel/true_fruits_smoothie_yellow_.webp">
+            <div class="card-body">
+                <p id="yellowsmoothie"></p>
+                <p id="yellowingredients"></p>
+                <p id="yellowvalues"></p>
+            </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card card-box" style="width: 18rem;">
+            <h3>Rewe Smoothie</h3>
+            <img src="img/carousel/Blue_Smoothie_Rewe_.webp">
+            <div class="card-body">
+                <p id="rewesmoothie"></p>
+                <p id="reweingredients"></p>
+                <p id="rewevalues"></p>
+            </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card card-box" style="width: 18rem;">
+            <h3>Kaufland Smoothie</h3>
+            <img src="img/carousel/Red_Smoothie_Kaufland_.webp">
+            <div class="card-body">
+                <p id="kauflandsmoothie"></p>
+                <p id="kauflandingredients"></p>
+                <p id="kauflandvalues"></p>
+            </div>
+    </div>
+</div>
 
 
+        <div class="row">
+        <div class="col-md-3">
+   <div class="card card-box" style="width: 18rem;">
+       <h3>Pink Smoothie</h3>
+       <img src="img/carousel/true_fruits_smoothie_pink_.webp">
+       <div class="card-body">
+           <p id="pinksmoothie"></p>
+           <p id="pinkingredients"></p>
+           <p id="pinkvalues"></p>
+       </div>
+   </div>
+   <div class="col-md-3">
+       <div class="card card-box" style="width: 18rem;">
+           <h3>Green Smoothie</h3>
+           <img src="img/carousel/true_fruits_green_smoothie_.webp">
+           <div class="card-body">
+               <p id="greensmoothie"></p>
+               <p id="greeningredients"></p>
+               <p id="greenvalues"></p>
+           </div>
+       </div>
+       <div class="col-md-3">
+           <div class="card card-box" style="width: 18rem;">
+               <h3>Mint Smoothie</h3>
+               <img src="img/carousel/Smoothie_Mint_.webp">
+               <div class="card-body">
+                   <p id="mintsmoothie"></p>
+                   <p id="mintingredients"></p>
+                   <p id="mintvalues"></p>
+               </div>
+           </div>
+           <div class="col-md-3">
+               <div class="card card-box" style="width: 18rem;">
+                   <h3>Orange Smoothie</h3>
+                   <img src="img/carousel/true_fruits_smoothie_orangenschale_.webp">
+                   <div class="card-body">
+                       <p id="orangesmoothie"></p>
+                       <p id="orangeingredients"></p>
+                       <p id="orangevalues"></p> </div>
+               </div>
+               </div>
+           </div>
 
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+<script crossorigin="anonymous" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="scripts/detail-json.js"></script>
 </body>
 </html>

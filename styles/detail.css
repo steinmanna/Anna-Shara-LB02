@@ -29,8 +29,15 @@ h2 {
 h3 {
     color: palevioletred;
     text-align: justify;
-    margin: 20px 0 20px 0;
+    margin: 20px 0 0 0;
     font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.card-box{
+    margin-bottom: 200px;
+    background-color: #ffccbe;
 }
 
 hr{

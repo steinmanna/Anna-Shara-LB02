@@ -23,6 +23,14 @@ body {
     text-transform: uppercase;
 }
 
+.logo{
+    background-color: red;
+    border: aquamarine;
+    height: 120px!important;
+    //margin-right: 500px;
+    padding: 0;
+}
+
 h1 {
     color: pink;
     text-align: center;

@@ -21,7 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="38e1638f-c610-4fde-82c8-ba3df6491790" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/detail-json.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/detail-json.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/detail.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +69,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.detail-json.js">
+  <component name="RunManager" selected="Node.js.smoothies.js">
     <configuration name="detail-json.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/scripts/detail-json.js" working-dir="$PROJECT_DIR$/scripts">
       <method v="2" />
     </configuration>
@@ -78,9 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.smoothies.js" />
         <item itemvalue="Node.js.detail-json.js" />
         <item itemvalue="Node.js.main.js" />
-        <item itemvalue="Node.js.smoothies.js" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +97,7 @@
       <updated>1642762579049</updated>
       <workItem from="1642762580120" duration="616000" />
       <workItem from="1642768481732" duration="18347000" />
-      <workItem from="1642883938199" duration="39550000" />
+      <workItem from="1642883938199" duration="50308000" />
     </task>
     <servers />
   </component>
@@ -129,22 +132,22 @@
       <screen x="0" y="25" width="1792" height="1044" />
     </state>
     <state x="643" y="399" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1792.1044@0.25.1792.1044" timestamp="1643020298476" />
-    <state width="1750" height="353" key="GridCell.Tab.0.bottom" timestamp="1642997206618">
+    <state width="1750" height="353" key="GridCell.Tab.0.bottom" timestamp="1643068642304">
       <screen x="0" y="25" width="1792" height="1044" />
     </state>
-    <state width="1750" height="353" key="GridCell.Tab.0.bottom/0.25.1792.1044@0.25.1792.1044" timestamp="1642997206618" />
-    <state width="1750" height="353" key="GridCell.Tab.0.center" timestamp="1642997206618">
+    <state width="1750" height="353" key="GridCell.Tab.0.bottom/0.25.1792.1044@0.25.1792.1044" timestamp="1643068642304" />
+    <state width="1750" height="353" key="GridCell.Tab.0.center" timestamp="1643068642303">
       <screen x="0" y="25" width="1792" height="1044" />
     </state>
-    <state width="1750" height="353" key="GridCell.Tab.0.center/0.25.1792.1044@0.25.1792.1044" timestamp="1642997206618" />
-    <state width="1750" height="353" key="GridCell.Tab.0.left" timestamp="1642997206617">
+    <state width="1750" height="353" key="GridCell.Tab.0.center/0.25.1792.1044@0.25.1792.1044" timestamp="1643068642303" />
+    <state width="1750" height="353" key="GridCell.Tab.0.left" timestamp="1643068642303">
       <screen x="0" y="25" width="1792" height="1044" />
     </state>
-    <state width="1750" height="353" key="GridCell.Tab.0.left/0.25.1792.1044@0.25.1792.1044" timestamp="1642997206617" />
-    <state width="1750" height="353" key="GridCell.Tab.0.right" timestamp="1642997206618">
+    <state width="1750" height="353" key="GridCell.Tab.0.left/0.25.1792.1044@0.25.1792.1044" timestamp="1643068642303" />
+    <state width="1750" height="353" key="GridCell.Tab.0.right" timestamp="1643068642303">
       <screen x="0" y="25" width="1792" height="1044" />
     </state>
-    <state width="1750" height="353" key="GridCell.Tab.0.right/0.25.1792.1044@0.25.1792.1044" timestamp="1642997206618" />
+    <state width="1750" height="353" key="GridCell.Tab.0.right/0.25.1792.1044@0.25.1792.1044" timestamp="1643068642303" />
     <state width="1750" height="344" key="GridCell.Tab.1.bottom" timestamp="1642982511859">
       <screen x="0" y="25" width="1792" height="1044" />
     </state>

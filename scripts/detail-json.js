@@ -3,7 +3,7 @@ let smoothie1 = {
     "content" : "250 ml",
     "vegan" : "ja",
     "infos" : {
-        "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 12,4g", "Zuker 10,7g", "Salz 0g"],
+        "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 12,4g", "Zucker 10,7g", "Salz 0g"],
         "ingredients": ["Apfel", "Orange", "Bananen", "Heidelbeeren", "Himbeeren", "Brommbeeren", "Johannisbeeren"]
     }
 }
@@ -25,17 +25,14 @@ htmlObj = document.getElementById("purpleingredients");
 });
 
 
-
 let smoothie2 = {
     "smoothiename" : "Yellow Smoothie",
     "content" : "250 ml",
     "vegan" : "ja",
     "infos" : {
-        "nutritionalvalue": ["Kalorien 62", "Kohlenhydrate 14,6g", "Zuker 13,4g"],
+        "nutritionalvalue": ["Kalorien 62", "Kohlenhydrate 14,6g", "Zucker 13,4g"],
         "ingredients": ["Orange", "Apfel", "Banane", "Mango", "Maracujas"]
     }
-     
-    
 }
 
  htmlObj = document.getElementById("yellowsmoothie");
@@ -61,7 +58,7 @@ let smoothie3 = {
     "content" : "250 ml",
     "vegan" : "ja",
     "infos" : {
-        "nutritionalvalue": ["Kalorien 51", "Kohlenhydrate 12g", "Zuker 12g", "Salz <0,1g"],
+        "nutritionalvalue": ["Kalorien 51", "Kohlenhydrate 12g", "Zucker 12g", "Salz <0,1g"],
         "ingredients": ["Trauben", "Rhabarber", "Apfel", "Banane", "Birne", "Schwarze Karotte", "Vanille"]
     }
 }
@@ -89,7 +86,7 @@ let smoothie4 = {
     "content" : "250 ml",
     "vegan" : "ja",
     "infos" : {
-        "nutritionalvalue": ["Kalorien 67", "Kohlenhydrate 16g", "Zuker 15g", "Salz <0,1g"],
+        "nutritionalvalue": ["Kalorien 67", "Kohlenhydrate 16g", "Zucker 15g", "Salz <0,1g"],
         "ingredients": ["Apfel", "Banane", "Trauben", "Guave", "Yuzu", "Spirulinaextrakt"]
     }
 }
@@ -116,7 +113,7 @@ let smoothie5 = {
     "content" : "250 ml",
     "vegan" : "ja",
     "infos" : {
-        "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 12,4g", "Zuker 10,7g", "Salz 0g"],
+        "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 12,4g", "Zucker 10,7g", "Salz 0g"],
         "ingredients": ["Apfel", "Banane", "Guanabana", "Darchenfrucht"]
     }
 }
@@ -143,7 +140,7 @@ let smoothie6 = {
     "content" : "250 ml",
     "vegan" : "ja",
     "infos" : {
-        "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 11,6g", "Zuker 10,5g", "Salz 0g"],
+        "nutritionalvalue": ["Kalorien 53", "Kohlenhydrate 11,6g", "Zucker 10,5g", "Salz 0g"],
         "ingredients": ["Apfel", "Banane", "Blätter Spinat", "Birne", "Blatt Grünkohl", "Ingwer", "Matcha"]
     }
 }
@@ -170,7 +167,7 @@ let smoothie7 = {
     "content" : "250 ml",
     "vegan" : "ja",
     "infos" : {
-        "nutritionalvalue": ["Kalorien 55", "Kohlenhydrate 13g", "Zuker 12g", "Salz 0g"],
+        "nutritionalvalue": ["Kalorien 55", "Kohlenhydrate 13g", "Zucker 12g", "Salz 0g"],
         "ingredients": ["Ananas", "Apfel", "Orange", "Banane", "Cashew-Apfel", "Key Lime", "Minze"]
     }
 }
@@ -197,7 +194,7 @@ let smoothie8 = {
     "content" : "250 ml",
     "vegan" : "ja",
     "infos" : {
-        "nutritionalvalue": ["Kalorien 49", "Kohlenhydrate 11g", "Zuker 10g"],
+        "nutritionalvalue": ["Kalorien 49", "Kohlenhydrate 11g", "Zucker 10g"],
         "ingredients": ["Apfel", "Mango", "Acerola-Kirsche", "Goji Beeren", "Orangenschale"]
     }
 }
